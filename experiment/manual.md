@@ -4,7 +4,7 @@ STEP 1:Select the molecule .
 <img src="images/poly1.png">
 
 STEP 2: Click on 'start' tab to initialize the experiment.
-<img src"images/poly5.png">
+<img src="images/poly5.png">
 
 STEP 3: The coordinates of particles can be changed by changing the position of slider.
 <img src="images/poly2.png">
