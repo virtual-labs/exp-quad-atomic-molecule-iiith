@@ -1,0 +1,5 @@
+The dihedral angle (also known as a torsion angle) between four bonded atoms A-B-C-D is defined as the angle between the the planes ABC and BCD. By rotating the bonds (A-B and C-D) on either end with respect to the axis of the middle bond (B-C) the dihedral angle can be varied. The rotation about the central bond will cause a change in the dihedral angle ¦Õ and consequently the distance between the atoms A and D changes resulting in different molecular structures called conformations. The molecular structures corresponding to certain torsional angles are energetically preferred over others. For example, if the distance between the atoms A and D is short, the potential energy of the molecule will increase due to the steric repulsion.
+
+The magnitude of energy required to change the conformation of a molecule is called dihedral (or torsional) energy and the dihedral forces play a major role in determining the confromational flexibility of molecules.
+
+In this experiment, the potential energies and corresponding dihedral forces of a molecule with 4 heavy atoms (for example, butane) are measured as a function of the end-to-end distance of the molecule. 
