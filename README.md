@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 
@@ -22,3 +23,6 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | . | . | . | . | .
 2 | . | . | . | . | .
+=======
+### README
+>>>>>>> c5db6263df41d704873ba3c3fca2d4560ce1029e
