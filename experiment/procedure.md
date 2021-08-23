@@ -1,7 +1,7 @@
 There are certain parameters to be initialized and the procedure detailed here can be followed.
 
 STEP 1:Select the molecule .  
-<img src="images/poly1.png" width="550" height="5x00">
+<img src="images/poly1.png" width="450" height="400">
 
 STEP 2: Click on 'start' tab to initialize the experiment.  
 <img src="images/poly5.png" width="450" height="400">
