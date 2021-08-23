@@ -1,6 +1,6 @@
 The standard functional form for representing the potential energy for a torsional rotation was introduced by Pitzer. The dihedral potential energy function is defined as,
 
-<img src="images/dihedral1.jpg">
+<img src="images/dihedral1.jpg" width="350" height="150">
 
 This gives the value of energy barrier for rotation, n the number of maxima (or minima) in one full rotation and gamma determines the angular offset. The use of the sum allows for complex angular variation of the potential energy (in effect a truncated fourier series is used). Barriers for dihedral angle rotation can be attributed to the exchange interaction of electrons in adjacent bonds (see Pauling). The dihedral energy profile of ethane and butane are shown in the following figures.
 
