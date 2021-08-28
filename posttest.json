@@ -1,0 +1,16 @@
+[
+{"question":"1. The dihedral angle of four atoms φ varies only the distance between the first and third atoms; the other interatomic distances are constrained by the chemical bond lengths and bond angles ", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "a"},
+
+{"question":"2. Steric strain is the repulsive interaction that occurs when two groups are forced to be closer to each other than their atomic radii allow;", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "a"} 			  
+
+]

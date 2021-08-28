@@ -1,0 +1,1 @@
+- To determine the nature of dihedral forces and other forces acting on the atoms of a molecule using magnetic tweezer experiments.

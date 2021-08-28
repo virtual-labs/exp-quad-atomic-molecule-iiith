@@ -1,0 +1,38 @@
+[
+{"question":"1. The magnitude of energy required to change the conformation of a molecule is called dihedral (or torsional) energy.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+               },
+"correctAnswer": "a"},
+
+{"question":"2. Gauche conformation forces the large methyl groups in Butane to be near each other, resulting in steric strain. ",
+"answers": {
+             "a": "True",
+             "b": "False"
+            },
+            "correctAnswer":"a"},
+
+{"question":"3. The potential energy at large separation's is essentially the bond energy ", 
+"answers": {
+             "a":"True", 
+             "b":"False" 
+            },
+"correctAnswer": "a"},
+
+
+{"question":"4. The dihedral angle of four atoms φ varies only the distance between the first and third atoms; the other interatomic distances are constrained by the chemical bond lengths and bond angles ", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "a"},
+
+{"question":"5. Steric strain is the repulsive interaction that occurs when two groups are forced to be closer to each other than their atomic radii allow;", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "a"} 			  
+
+]
