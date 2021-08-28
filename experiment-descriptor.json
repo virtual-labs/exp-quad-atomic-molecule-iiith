@@ -7,6 +7,13 @@
       "unit-type": "aim"
     },
     {
+      "target": "objective.html",
+      "source": "objective.md",
+      "label": "Objective",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
       "target": "theory.html",
       "source": "theory.md",
       "label": "Theory",
@@ -33,6 +40,13 @@
       "label": "Simulation",
       "unit-type": "task",
       "content-type": "simulation"
+    },
+    {
+      "target": "posttest.html",
+      "source": "posttest.json",
+      "label": "Posttest",
+      "unit-type": "task",
+      "content-type": "assesment"
     }
   ]
 }
